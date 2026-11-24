@@ -1,0 +1,14 @@
+{
+  "name": "init-agent",
+  "owner": { "name": "Bruno" },
+  "metadata": {
+    "description": "Flujo plan-commits → plan-build para agentes de código"
+  },
+  "plugins": [
+    {
+      "name": "plan-kit",
+      "source": "./",
+      "description": "Skills plan-commits y plan-build, y subagentes plan-worker y plan-reviewer: planificar un cambio commit a commit y ejecutarlo con ancla de reversión."
+    }
+  ]
+}

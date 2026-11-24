@@ -1,0 +1,8 @@
+{
+  "name": "plan-kit",
+  "version": "0.1.0",
+  "description": "Skills plan-commits y plan-build, y subagentes plan-worker y plan-reviewer: planificar un cambio commit a commit y ejecutarlo con ancla de reversión.",
+  "author": { "name": "Bruno" },
+  "repository": "https://github.com/Brunvelop/init-agent",
+  "license": "MIT"
+}
